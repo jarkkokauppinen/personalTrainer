@@ -12,8 +12,6 @@ import CalendarComponent from './components/Calendar';
 import './App.css';
 import { withStyles } from '@material-ui/core/styles';
 
-//
-
 const StyledTabs = withStyles({
   indicator: {
     display: 'flex',
